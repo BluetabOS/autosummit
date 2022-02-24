@@ -1,0 +1,2 @@
+<a href="/checkout" class="border-2 border-white px-8 rounded-2xl py-2 text-white backdrop-blur-sm mt-1 button-outline__light">Pago online<i class="mdi mdi-chevron-right font-bold text-lg"></i></a>
+<a href="/catalog" class="border-2 ml-4 px-4 rounded-2xl py-2 text-white backdrop-blur-sm mt-1 button-outline__dark">Catalogo de autos<i class="mdi mdi-chevron-right font-bold text-lg"></i></a>

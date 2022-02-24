@@ -1,0 +1,41 @@
+@tailwind utilities;
+@tailwind components;
+@tailwind base;
+
+
+
+$accent:#001A42;
+$primary: #005E9E;
+$primary-light: #02A8DF;
+$primary-dark: #284886;
+$secondary-light: #EFF3FA;
+$secondary:#929FB1;
+$danger:#F90018;
+
+
+
+.header {
+    background-color: $accent !important;
+}
+
+.button-outline__light{
+    background-color: transparent !important;
+    border-width: 2px !important;
+    border-color: white !important;
+}
+
+.button-outline__dark{
+    background-color: white !important;
+    border-width: 2px !important;
+    border-color: $primary-dark !important;
+    color:$primary-dark !important;
+}
+
+
+.hero {
+    background-image: url("/src/assets/ford.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+  }
